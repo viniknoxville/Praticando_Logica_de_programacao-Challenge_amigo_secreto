@@ -2,7 +2,11 @@
 
 # 🎉 Amigo Secreto - Challenge ONE 🎁
 
-<a href="https://freeimage.host/i/3HVBVd7"><img src="https://iili.io/3HVBVd7.md.png" alt="3HVBVd7.md.png" border="0"></a>
+<p align="center">
+  <a href="https://freeimage.host/i/3HVBVd7">
+    <img src="https://iili.io/3HVBVd7.md.png" alt="3HVBVd7.md.png" border="0">
+  </a>
+</p>
 
 Bem-vindo ao projeto **Amigo Secreto**, parte do desafio **Praticando Lógica de Programação** da Alura em parceria com a Oracle no projeto **ONE - Oracle Next Education**.
 
@@ -20,6 +24,8 @@ O **Amigo Secreto** é um jogo tradicional, no qual um grupo de pessoas sorteia 
 Além disso, ao sortear o amigo, o site proporciona um efeito divertido de **confetes** para celebrar o sorteio!
 
 🔗 **Teste o jogo aqui**: [Amigo Secreto - Vercel](https://praticando-logica-de-programacao-challenge-amigo-secreto.vercel.app/)
+
+![GIF do Amigo Secreto](assets/amigoSecreto.gif)
 
 ### 💡 Funcionalidades
 
