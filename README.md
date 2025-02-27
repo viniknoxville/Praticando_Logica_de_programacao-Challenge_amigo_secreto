@@ -1,6 +1,4 @@
-
-
-# 🎉 Amigo Secreto - Challenge ONE 🎁
+# 🎁 Challenge: Amigo Secreto  
 
 <p align="center">
   <a href="https://freeimage.host/i/3HVBVd7">
